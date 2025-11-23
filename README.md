@@ -72,5 +72,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## 📬 Connect with Me
 If you find these projects interesting or have any feedback, feel free to reach out!
 
-* **LinkedIn:** [Preethi K N](www.linkedin.com/in/preethi-kn) 
+* **LinkedIn:** [Preethi K N](https://www.linkedin.com/in/preethi-kn) 
 * **GitHub:** [Preethi-K-N](https://github.com/Preethi-K-N)
