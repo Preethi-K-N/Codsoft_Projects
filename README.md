@@ -56,3 +56,21 @@ The projects were developed using the following technologies:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Preethi-K-N/Codsoft_Projects.git](https://github.com/Preethi-K-N/Codsoft_Projects.git)
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Codsoft_Projects
+   ```
+3. Install dependencies:
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn
+```
+4. Open the Jupyter Notebooks to explore the code!
+
+---
+
+## 📬 Connect with Me
+If you find these projects interesting or have any feedback, feel free to reach out!
+
+* **LinkedIn:** [Preethi K N](www.linkedin.com/in/preethi-kn) 
+* **GitHub:** [Preethi-K-N](https://github.com/Preethi-K-N)
